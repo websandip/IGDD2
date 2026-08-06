@@ -1,10 +1,33 @@
 # GDCAI
-Welcome to Genetic Disease and Chromosomal Aberration Database from India
+## Genetic Disease and Chromosomal Aberration Database from India
 
-The Indians represent one-sixth of the world population and India consists of ethnically, geographically and genetically diverse 
-populations with several thousand endogamous groups. In some community the load of genetic disorder is relatively high due to 
-consanguineous marriage practiced in the community. This database has been created to keep track of mutations in the causal genes for 
-genetic diseases common in India and help the Physicians, Geneticists and other professionals related to genetic disorders to 
-retrieve and use the information for the benefit of the families affected with the disorders. 
+**GDCAI** is a curated database of genetic diseases and chromosomal aberrations reported in the Indian population. It serves as a resource for clinicians, geneticists, researchers, and healthcare professionals by providing information on disease-associated genetic variants identified in India.
 
-Access it here: http://bioinfo.jisiasr.org/gdcai/
+## Background
+
+India is home to nearly one-sixth of the world's population and is characterized by remarkable ethnic, geographic, and genetic diversity. The population comprises thousands of endogamous communities, some of which have an increased prevalence of inherited genetic disorders due to practices such as consanguineous marriage.
+
+Understanding the spectrum of disease-causing variants within these populations is essential for improving genetic diagnosis, research, and patient care.
+
+## Purpose
+
+The database aims to:
+
+- Collect and curate genetic variants associated with inherited disorders in India.
+- Provide a centralized resource for disease-causing mutations and chromosomal aberrations.
+- Support clinicians and geneticists in diagnosis and clinical interpretation.
+- Facilitate research on population-specific genetic diseases.
+- Improve access to genetic information for the benefit of affected individuals and their families.
+
+## Access the Database
+
+🌐 **Website:** http://bioinfo.jisiasr.org/gdcai/
+
+## Target Users
+
+- Clinicians
+- Medical Geneticists
+- Researchers
+- Genetic Counselors
+- Healthcare Professionals
+- Students interested in human genetics and genomic medicine
